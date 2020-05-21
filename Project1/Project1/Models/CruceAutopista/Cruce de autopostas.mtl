@@ -12,5 +12,5 @@ newmtl 10562_RoadSectionCross_v2_L3_lambert2SG
 	Kd 0.0000 0.0000 0.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka maps\RoadSectionCross.jpg
-	map_Kd maps\RoadSectionCross.jpg
+	map_Ka RoadSectionCross.jpg
+	map_Kd RoadSectionCross.jpg
