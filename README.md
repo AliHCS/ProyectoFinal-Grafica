@@ -1,2 +1,2 @@
 # ProyectoFinal-Grafica
-Proyecto Final de Computación Gráfica xd
+Proyecto Final de Computación Gráfica 
